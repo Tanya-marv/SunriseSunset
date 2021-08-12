@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SunriseSunset</string>
+    <string name="tv_lalitude">Latitude:</string>
+    <string name="tv_longitude">Longitude:</string>
+    <string name="tv_sunrise">Sunrise</string>
+    <string name="tv_sunset">Sunset</string>
+    <string name="tv_solar_noon">Solar noon</string>
+    <string name="tv_day_length">Day length</string>
+    <string name="tv_civil">Civil</string>
+    <string name="tv_twilight_begin">Twilight Begin</string>
+    <string name="tv_twilight_end">Twilight End</string>
+    <string name="tv_nautical">Nautical</string>
+    <string name="tv_astronomical">Astronomical</string>
+</resources>
